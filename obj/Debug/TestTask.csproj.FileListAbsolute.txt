@@ -1,0 +1,9 @@
+C:\Users\ostanin.v\source\repos\TestTask\TestTask\bin\Debug\TextFile1.txt
+C:\Users\ostanin.v\source\repos\TestTask\TestTask\bin\Debug\TestTask.exe
+C:\Users\ostanin.v\source\repos\TestTask\TestTask\bin\Debug\TestTask.pdb
+C:\Users\ostanin.v\source\repos\TestTask\TestTask\obj\Debug\TestTask.csproj.AssemblyReference.cache
+C:\Users\ostanin.v\source\repos\TestTask\TestTask\obj\Debug\TestTask.csproj.SuggestedBindingRedirects.cache
+C:\Users\ostanin.v\source\repos\TestTask\TestTask\obj\Debug\TestTask.csproj.CoreCompileInputs.cache
+C:\Users\ostanin.v\source\repos\TestTask\TestTask\obj\Debug\TestTask.exe
+C:\Users\ostanin.v\source\repos\TestTask\TestTask\obj\Debug\TestTask.pdb
+C:\Users\ostanin.v\source\repos\TestTask\TestTask\bin\Debug\TextFile2.txt
